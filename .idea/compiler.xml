@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jsp-core-common" />
+        <module name="jsp-core-dao" />
+        <module name="jsp-core-dao-impl" />
+        <module name="jsp-core-data" />
+        <module name="jsp-core-dto" />
+        <module name="jsp-core-persistence-data" />
+        <module name="jsp-core-service" />
+        <module name="jsp-core-service-impl" />
+        <module name="jsp-core-testng" />
+        <module name="jsp-core-utils" />
+        <module name="jsp-web" />
+        <module name="jsp-web-core" />
+        <module name="jsp-web-logic" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
