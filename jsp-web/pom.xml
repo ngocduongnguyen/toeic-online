@@ -13,4 +13,12 @@
     <artifactId>jsp-web</artifactId>
     <packaging>war</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.dev</groupId>
+            <artifactId>jsp-web-logic</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>

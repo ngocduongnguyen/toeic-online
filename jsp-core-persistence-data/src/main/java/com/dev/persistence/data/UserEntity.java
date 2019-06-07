@@ -16,8 +16,8 @@ public class UserEntity {
     private String createdby;
     private Timestamp modifieddate;
     private String modifiedby;
-    private Collection<CommentEntity> commentsById;
     private RoleEntity roleByRoleid;
+    private Collection<CommentEntity> commentsById;
 
     @Id
     @Column(name = "id")
