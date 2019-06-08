@@ -21,7 +21,7 @@
         <module>jsp-web-core</module>
         <module>jsp-web-logic</module>
         <module>jsp-core-dto</module>
-        <module>jsp-core-testng</module>
+        <module>test-api-core</module>
     </modules>
 
     <properties>
@@ -35,6 +35,9 @@
         <jdbcmysql.version>8.0.13</jdbcmysql.version>
         <hibernate.version>5.3.7.Final</hibernate.version>
         <tesng.version>6.14.3</tesng.version>
+        <log4j.version>1.2.17</log4j.version>
+        <bean.utils.version>1.9.3</bean.utils.version>
+        <dislaytag.version>1.2</dislaytag.version>
     </properties>
 
     <dependencies>
@@ -78,6 +81,24 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>${tesng.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>commons-beanutils</groupId>
+            <artifactId>commons-beanutils</artifactId>
+            <version>${bean.utils.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>displaytag</groupId>
+            <artifactId>displaytag</artifactId>
+            <version>${dislaytag.version}</version>
         </dependency>
 
     </dependencies>

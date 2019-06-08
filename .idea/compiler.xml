@@ -14,12 +14,15 @@
         <module name="jsp-core-persistence-data" />
         <module name="jsp-core-service" />
         <module name="jsp-core-service-impl" />
-        <module name="jsp-core-testng" />
         <module name="jsp-core-utils" />
         <module name="jsp-web" />
         <module name="jsp-web-core" />
         <module name="jsp-web-logic" />
+        <module name="test-api-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jsp-core-testng" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

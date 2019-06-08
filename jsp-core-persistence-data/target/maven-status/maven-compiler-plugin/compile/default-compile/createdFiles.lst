@@ -1,0 +1,4 @@
+com\dev\persistence\data\CommentEntity.class
+com\dev\persistence\data\RoleEntity.class
+com\dev\persistence\data\UserEntity.class
+com\dev\persistence\data\ListenguidelineEntity.class

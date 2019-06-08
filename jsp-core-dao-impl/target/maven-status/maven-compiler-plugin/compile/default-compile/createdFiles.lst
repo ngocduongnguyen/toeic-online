@@ -1,0 +1,5 @@
+com\dev\core\dao\impl\UserDAO.class
+com\dev\core\dao\impl\AbstractDAO.class
+com\dev\core\dao\impl\CommentDAO.class
+com\dev\core\dao\impl\ListenguidelineDAO.class
+com\dev\core\dao\impl\RoleDAO.class

@@ -1,0 +1,5 @@
+com\dev\core\dto\TestDTO.class
+com\dev\core\dto\RoleDTO.class
+com\dev\core\dto\UserDTO.class
+com\dev\core\dto\CommentDTO.class
+com\dev\core\dto\ListenguidelineDTO.class

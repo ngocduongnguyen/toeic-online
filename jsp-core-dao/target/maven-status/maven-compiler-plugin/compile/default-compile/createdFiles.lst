@@ -1,0 +1,5 @@
+com\dev\core\dao\IUserDAO.class
+com\dev\core\dao\IRoleDAO.class
+com\dev\core\dao\IGenericDAO.class
+com\dev\core\dao\IListenguidelineDAO.class
+com\dev\core\dao\ICommentDAO.class

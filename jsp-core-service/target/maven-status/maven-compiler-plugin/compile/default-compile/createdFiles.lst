@@ -1,0 +1,4 @@
+com\dev\core\service\IRoleService.class
+com\dev\core\service\IListenguidelineService.class
+com\dev\core\service\ICommentService.class
+com\dev\core\service\IUserService.class

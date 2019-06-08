@@ -1,0 +1,4 @@
+com\dev\core\service\impl\ListenguidelineService.class
+com\dev\core\service\impl\UserService.class
+com\dev\core\service\impl\CommentService.class
+com\dev\core\service\impl\RoleService.class
