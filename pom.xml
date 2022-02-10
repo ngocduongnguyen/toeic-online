@@ -33,7 +33,7 @@
         <sitemesh.version>2.4.2</sitemesh.version>
         <jstl.version>1.2</jstl.version>
         <jdbcmysql.version>8.0.13</jdbcmysql.version>
-        <hibernate.version>5.3.7.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <tesng.version>6.14.3</tesng.version>
         <log4j.version>1.2.17</log4j.version>
         <bean.utils.version>1.9.3</bean.utils.version>
