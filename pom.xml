@@ -36,7 +36,7 @@
         <hibernate.version>5.3.7.Final</hibernate.version>
         <tesng.version>6.14.3</tesng.version>
         <log4j.version>1.2.17</log4j.version>
-        <bean.utils.version>1.9.3</bean.utils.version>
+        <bean.utils.version>1.9.4</bean.utils.version>
         <dislaytag.version>1.2</dislaytag.version>
     </properties>
 
